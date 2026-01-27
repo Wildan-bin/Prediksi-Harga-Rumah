@@ -1,6 +1,6 @@
 # Prediksi Harga Rumah
 
-Proyek ini bertujuan untuk memprediksi harga rumah menggunakan teknik Machine Learning.
+Proyek ini bertujuan untuk memprediksi harga rumah menggunakan teknik Machine Learning untuk melakukan prediksi harga rumah.
 
 ## Prasyarat
 
@@ -45,6 +45,7 @@ Gunakan `pip` untuk menginstal semua pustaka yang diperlukan dari file `requirem
 ```bash
 pip install -r requirements.txt
 ```
+NOTE : Install dependensi melalui perintah ini, tidak perlu install satu persatu jika banyak error pada bagian import, direkomendasikan menggunakan venv
 
 ### 5. Jalankan Proyek
 Setelah semua dependensi terinstal, Anda dapat menjalankan notebook atau skrip Python yang tersedia:
